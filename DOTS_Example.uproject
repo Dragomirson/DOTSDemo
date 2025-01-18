@@ -14,10 +14,6 @@
 		{
 			"Name": "DOTS",
 			"Enabled": true
-		},
-		{
-			"Name": "NordVaderLibrary",
-			"Enabled": true
 		}
 	]
 }
